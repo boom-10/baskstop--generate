@@ -1,0 +1,8 @@
+[
+  {
+    "label": "violation_overview",
+    "url": "http://localhost:3000/creator-center/violation/overview/",
+    "delay": 1000,
+    "statusBar": true
+  }
+]

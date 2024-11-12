@@ -1,0 +1,14 @@
+[
+  {
+    "domain": "localhost",
+    "path": "/",
+    "name": "SPC_ST",
+    "value": ".Qkg0QWRvTFRIWWFBaGQzZmf7iHa/an3LZ5nUHdMSLd6xW8z3KBB3T5tbB5npq4bHo7vZjJoCNTDds2lcKMdWLyZ+HW5O1rFwYyoJ7hTjNimDxE81CxcSMbhypBtCAsDbrqn0Yeg0eL7SgRY3CsTQQogpFWFqNEYeBQ1nf5HH+Ar2CzX919OMimm860xtqxTcVrmRftmbJeW2veS1/gBQvTH44tVaarJ1+btUkMMPvaLuGT/mLDuELIEyH7f17+4W",
+    "expirationDate": 1798790400,
+    "hostOnly": false,
+    "httpOnly": false,
+    "secure": false,
+    "session": false,
+    "sameSite": "Lax"
+  }
+]
