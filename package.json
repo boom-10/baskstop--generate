@@ -2,14 +2,16 @@
   "name": "vite-ui-check",
   "private": true,
   "version": "0.0.0",
-  "type": "module",
+  "type": "commonjs",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "start": "ts-node --esm ./scripts/handleConfig.mts"
   },
   "devDependencies": {
-    "typescript": "~5.6.2",
+    "ts-node": "^10.9.2",
+    "typescript": "~5.6.3",
     "vite": "^5.4.10"
   }
 }

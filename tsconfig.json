@@ -7,11 +7,12 @@
     "skipLibCheck": true,
 
     /* Bundler mode */
-    "moduleResolution": "Bundler",
+    "moduleResolution": "Node",
     "allowImportingTsExtensions": true,
     "isolatedModules": true,
     "moduleDetection": "force",
     "noEmit": true,
+    "esModuleInterop": true,
 
     /* Linting */
     "strict": true,
